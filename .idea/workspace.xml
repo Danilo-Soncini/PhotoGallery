@@ -1,0 +1,1051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6627ce5a-314a-4538-af5f-7692d059afcd" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.view.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="73">
+              <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slick.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/slick/slick.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-255">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="slick-theme.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/slick/slick-theme.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="101" column="23" lean-forward="true" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getcam</find>
+      <find>ca</find>
+      <find>c</find>
+      <find>s</find>
+      <find>sup</find>
+      <find>supe</find>
+      <find>super</find>
+      <find>supercar</find>
+      <find>0317</find>
+      <find>img/</find>
+      <find>0717</find>
+      <find>fixo_movel_local</find>
+      <find>cursos</find>
+      <find>slide-title</find>
+      <find>img-medicine-curse</find>
+      <find>fixed-menu</find>
+      <find>header-founders</find>
+      <find>body</find>
+      <find>body-ensinomed-page</find>
+      <find>footer</find>
+      <find>&lt;footer</find>
+      <find>bo</find>
+      <find>ERGUNTAS FREQU</find>
+      <find>container-fluid</find>
+      <find>iten</find>
+      <find>list-home</find>
+      <find>v</find>
+      <find>vd</find>
+      <find>vdn</find>
+      <find>vdn=</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>rootScope.context.isB2bc()</replace>
+      <replace>weekly</replace>
+      <replace>http://makro.z10x.com.br/img/email/</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Public\Apps\assine\assets</dir>
+      <dir>C:\Users\Public\Apps\assine\documentacao</dir>
+      <dir>C:\Users\Public\Apps\assine\makro\img</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master-loren" />
+      </map>
+    </option>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/develop" />
+                <branch-info repo="$PROJECT_DIR$" source="origin/homologa" />
+                <branch-info repo="$PROJECT_DIR$" source="origin/master-loren" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/js/angular/common/objects/out-of-service.js" />
+        <option value="$PROJECT_DIR$/slimer/prerender.js" />
+        <option value="$PROJECT_DIR$/src/js/lazyload/checkout/checkout.js" />
+        <option value="$PROJECT_DIR$/src/js/angular/core/routes/b2b.js" />
+        <option value="$PROJECT_DIR$/src/js/angular/core/routes/b2bc.js" />
+        <option value="$PROJECT_DIR$/oscar/filmes.json" />
+        <option value="$PROJECT_DIR$/oscar/diretor.json" />
+        <option value="$PROJECT_DIR$/index-lp.html" />
+        <option value="$PROJECT_DIR$/sitemap_b2b.txt" />
+        <option value="$PROJECT_DIR$/sitemap_b2b.xml" />
+        <option value="$PROJECT_DIR$/src/js/angular/lib/modulos/dev/dev.js" />
+        <option value="$PROJECT_DIR$/src/js/angular/lib/modulos/resolve/declarationModule.js" />
+        <option value="$PROJECT_DIR$/cv/cv.html" />
+        <option value="$PROJECT_DIR$/src/json/componentes/b2c/pnp_6.json" />
+        <option value="$PROJECT_DIR$/src/json/componentes/b2c/pnp_5.json" />
+        <option value="$PROJECT_DIR$/src/js/angular/factories/externalScriptFactory.js" />
+        <option value="$PROJECT_DIR$/src/js/angular/factories/viviFactory.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/src/json/componentes/b2c/pnp_6_sem_tv.json" />
+        <option value="$PROJECT_DIR$/src/json/cards/extraChannelsLayout.json" />
+        <option value="$PROJECT_DIR$/src/js/angular/controllers/essentials/consulta-ponto-adicional.js" />
+        <option value="$PROJECT_DIR$/src/json/cp-full-compress-b2c.dat" />
+        <option value="$PROJECT_DIR$/src/js/angular/lib/modulos/staticPrice/staticPrice.js" />
+        <option value="$PROJECT_DIR$/src/json/cp-full.dat" />
+        <option value="$PROJECT_DIR$/src/json/cp-full-compress-b2b.dat" />
+        <option value="$PROJECT_DIR$/src/js/lazyload/simulador/simulador2.js" />
+        <option value="$PROJECT_DIR$/templates/organisms/cards/organism-card-a-la-carte.html" />
+        <option value="$PROJECT_DIR$/src/json/grupos.csv" />
+        <option value="$PROJECT_DIR$/src/js/angular/controllers/chat-oracle-b2b.js" />
+        <option value="$PROJECT_DIR$/src/js/angular/organisms/organism-chat-oracle.js" />
+        <option value="$PROJECT_DIR$/templates/paginas/modais/page-modal-chat.html" />
+        <option value="$PROJECT_DIR$/templates/organisms/chat-oracle-b2c.html" />
+        <option value="$PROJECT_DIR$/src/js/angular/controllers/chat-oracle-b2c.js" />
+        <option value="$PROJECT_DIR$/src/js/angular/lib/angular-masks.js" />
+        <option value="$PROJECT_DIR$/src/js/angular/lib/modulos/card/superCard.js" />
+        <option value="$PROJECT_DIR$/makro/index.html" />
+        <option value="$PROJECT_DIR$/makro/email.html" />
+        <option value="$PROJECT_DIR$/bravo/index.html" />
+        <option value="$PROJECT_DIR$/bravo/css/style.css" />
+        <option value="$PROJECT_DIR$/src/js/angular/lib/modulos/services/converter.js" />
+        <option value="$PROJECT_DIR$/js/skrollr.js" />
+        <option value="$PROJECT_DIR$/js/caroucel.min.js" />
+        <option value="$PROJECT_DIR$/css/jcarousel.css" />
+        <option value="$PROJECT_DIR$/js/animations.js" />
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/src/js/angular/core/routes/nse.js" />
+        <option value="$PROJECT_DIR$/style/app.css" />
+        <option value="$PROJECT_DIR$/slick/slick-theme.css" />
+        <option value="$PROJECT_DIR$/index.view.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>NAME</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mkt-node-modules/mkt-cards-compile" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="product.js&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/json/cards/products.json&#10;super&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/lib/modulos/card/superCard.js&#10;getcam&#9;null&#9;null&#10;cpf&#9;null&#9;null&#10;services&#9;null&#9;null&#10;resolve&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/lib/modulos/resolve/resolve.js&#10;gru&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/json/grupos.csv&#10;b2c.js&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/core/routes/b2c.js&#10;produc&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/json/cards/products.json&#10;stati&#9;null&#9;null&#10;point&#9;null&#9;null&#10;convert&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/lib/modulos/services/converter.js&#10;default.json&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/json/componentes/default.json&#10;default&#9;ACTION&#9;null&#10;pnp_6_&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/json/componentes/b2c/pnp_6_sem_tv.json&#10;pnp_6&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/json/componentes/b2c/pnp_6.json&#10;pnp_5&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/json/componentes/b2c/pnp_5.json&#10;grupo&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/json/grupos.csv&#10;nse.js&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/core/routes/nse.js&#10;nse&#9;null&#9;null&#10;dev&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/lib/modulos/dev/dev.js&#10;converter&#9;null&#9;null&#10;checkout&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/lazyload/checkout/checkout.js&#10;re&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/lib/modulos/resolve/resolve.js&#10;b2bc&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/core/routes/b2bc.js&#10;.hta&#9;FILE&#9;file://C:/Users/Public/Apps/assine/.htaccess&#10;B2BC&#9;null&#9;null&#10;route&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/core/routeConfig.js&#10;b2o&#9;null&#9;null&#10;b2c&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/core/routes/b2c.js&#10;sucesso.js&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/lazyload/checkout/checkout-sucesso.js&#10;b2b&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/core/routes/b2b.js&#10;script&#9;null&#9;null&#10;web.js&#9;FILE&#9;file://C:/Users/Public/Apps/assine/slimer/vendors/ghostdriver/webelementlocator.js&#10;out-of-service&#9;null&#9;null&#10;data&#9;null&#9;null&#10;mkcompo&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/common/mkComponente.js&#10;form&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/atoms/compass/form-compass.js&#10;page-modal-cha&#9;FILE&#9;file://C:/Users/Public/Apps/assine/templates/paginas/modais/page-organism-modal-chat-oracle.html&#10;page-modal-chat.html&#9;FILE&#9;file://C:/Users/Public/Apps/assine/templates/paginas/modais/page-modal-chat.html&#10;autoCom&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/lib/angular-autocomplete.js&#10;index&#9;FILE&#9;file://C:/Users/Public/Apps/assine/index.html&#10;grupoResolve&#9;null&#9;null&#10;assin&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/core/assine-run.js&#10;grupos&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/json/grupos.csv&#10;run&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/core/assine-run.js&#10;assine&#9;FILE&#9;file://C:/Users/Public/Apps/assine/src/js/angular/core/assine-run.js&#10;loggly&#9;null&#9;null&#10;abstrac&#9;null&#9;null&#10;datafactory&#9;null&#9;null" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="C:\Users\Public\Apps\assine\node_modules\gulp" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
+    <property name="ToolWindowVersion Control.ShowToolbar" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="editorconfig.notification" value="tabs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Public\Apps\assine\testes" />
+      <recent name="C:\Users\Public\Apps\assine" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gulp.js.default">
+    <configuration default="false" name="run-jsondb" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>run-jsondb</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="watch" type="js.build_tools.gulp" factoryName="Gulp.js" temporary="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>watch</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/karma" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor" editBeforeRun="true">
+      <config-file value="$PROJECT_DIR$/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSRemoteDebug" factoryName="Node.js Remote Debug">
+      <node-js-remote-debug />
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="protractor.conf.js" type="JavaScriptTestRunnerProtractor" factoryName="Protractor" editBeforeRun="true">
+      <config-file value="$PROJECT_DIR$/protractor.conf.js" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="default" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>default</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="prod" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>prod</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="cardcompile" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>cardcompile</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unit Tests" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/karma" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Protractor.protractor.conf.js" />
+      <item index="1" class="java.lang.String" itemvalue="Gulp.js.default" />
+      <item index="2" class="java.lang.String" itemvalue="Gulp.js.prod" />
+      <item index="3" class="java.lang.String" itemvalue="Gulp.js.cardcompile" />
+      <item index="4" class="java.lang.String" itemvalue="Karma.Unit Tests" />
+      <item index="5" class="java.lang.String" itemvalue="Gulp.js.run-jsondb" />
+      <item index="6" class="java.lang.String" itemvalue="Gulp.js.watch" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Gulp.js.watch" />
+        <item index="1" class="java.lang.String" itemvalue="Gulp.js.run-jsondb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6627ce5a-314a-4538-af5f-7692d059afcd" name="Default" comment="" />
+      <created>1495829131983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1495829131983</updated>
+      <workItem from="1495829133962" duration="1321000" />
+      <workItem from="1496077735329" duration="8440000" />
+      <workItem from="1496234607832" duration="9107000" />
+      <workItem from="1496343436606" duration="14313000" />
+      <workItem from="1497375716211" duration="6752000" />
+      <workItem from="1497782804126" duration="2569000" />
+      <workItem from="1497893820074" duration="5103000" />
+      <workItem from="1497962886220" duration="31183000" />
+      <workItem from="1498159820044" duration="1581000" />
+      <workItem from="1498255817226" duration="23542000" />
+      <workItem from="1498571927849" duration="18934000" />
+      <workItem from="1498742584913" duration="14914000" />
+      <workItem from="1498826553616" duration="32379000" />
+      <workItem from="1499259532484" duration="5719000" />
+      <workItem from="1499304450691" duration="5515000" />
+      <workItem from="1499441578812" duration="9825000" />
+      <workItem from="1499737698785" duration="12085000" />
+      <workItem from="1499906918327" duration="5855000" />
+    </task>
+    <task id="LOCAL-00001" summary="Otimização do serviço de GetCampaign&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/310365499">
+      <created>1496094847854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1496094847854</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Bug Html prerender">
+      <created>1496241993413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1496241993413</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Página de manutenção&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/310987714">
+      <created>1496415620004</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1496415620004</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Criar lazyload de CSS&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/310722102">
+      <created>1496430657907</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1496430657907</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" https://basecamp.com/1791939/projects/7986525/todos/311498804&#10; &#10; Barra Mansa e Volta Redonda quabrando">
+      <created>1496782575902</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1496782575902</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Merge branch 'master-loren' of https://github.com/GVTMKTDigital/ferrari-angular into master-loren&#10;&#10;# Conflicts:&#10;#&#9;mkt-node-modules/mkt-cards-compile/package.json&#10;#&#9;mkt-node-modules/mkt-json-db/package.json&#10;#&#9;mkt-node-modules/mkt-json-groups/dist/index.js&#10;#&#9;mkt-node-modules/mkt-json-groups/package.json&#10;#&#9;mkt-node-modules/mkt-json-groups/src/index.ts&#10;#&#9;src/js/angular/lib/modulos/staticPrice/staticPrice.js">
+      <created>1496787458567</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1496787458567</updated>
+    </task>
+    <task id="LOCAL-00007" summary="SEM TAREFA - Aplicar horario de manutenção 17/06 23:00 19/06 07:00">
+      <created>1497463331711</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1497463331760</updated>
+    </task>
+    <task id="LOCAL-00008" summary="SEM TAREFA - Simulador não permitia compra de Avulso em cidades sem TV, o simulador era sempre iniciado no 2P">
+      <created>1497784012958</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1497784012958</updated>
+    </task>
+    <task id="LOCAL-00009" summary="LP barra quebrando com parametro - https://basecamp.com/1791939/projects/7986525/todos/313179776">
+      <created>1497906251920</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1497906251920</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Merge remote-tracking branch 'remotes/origin/homologa' into master-loren&#10;&#10;# Conflicts:&#10;#&#9;src/js/angular/common/dataLayerVivo.js&#10;#&#9;src/js/angular/core/routes/b2c.js&#10;#&#9;src/js/angular/lib/modulos/dataFactory/abstractFactoryData.js&#10;#&#9;src/json/componentes/b2b/especial.json&#10;#&#9;src/json/componentes/b2b/premium.json&#10;#&#9;src/json/componentes/b2b/top.json&#10;#&#9;src/json/componentes/b2c/pnp_1.json&#10;#&#9;src/json/componentes/b2c/pnp_2.json&#10;#&#9;src/json/componentes/b2c/pnp_2_300.json&#10;#&#9;src/json/componentes/b2c/pnp_3.json&#10;#&#9;src/json/componentes/b2c/pnp_3_300.json&#10;#&#9;src/json/componentes/b2c/pnp_4.json&#10;#&#9;src/json/componentes/b2c/pnp_7.json&#10;#&#9;src/json/componentes/b2c/pnp_7_300.json&#10;#&#9;src/json/componentes/defaultB2b.json&#10;#&#9;src/json/componentes/defaultNse.json&#10;#&#9;src/json/componentes/fibra_SP_soft_vivo2.json&#10;#&#9;templates/atoms/list/atom-list-breadcrumb.html&#10;#&#9;templates/componentes/modal/preciso-ajuda.html">
+      <created>1498156091541</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1498156091541</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Ajustes Homologa apos conflito tinhas chaves duplicadas">
+      <created>1498160561951</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1498160561951</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Ajustes Homologa apos conflito tinhas chaves duplicadas">
+      <created>1498160851166</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1498160851166</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Ajustes Homologa apos conflito tinhas chaves duplicadas">
+      <created>1498161184746</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1498161184746</updated>
+    </task>
+    <task id="LOCAL-00014" summary="B2C) DEV | Na página de fechamento de pedido o sistema direciona para página de home automaticament&#10;&#10;https://basecamp.com/1791939/projects/12730983/todos/313902601">
+      <created>1498316479833</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1498316479833</updated>
+    </task>
+    <task id="LOCAL-00015" summary="(B2B) DEV | BUG Vivi de Atendimento - Grandes Empresas&#10;&#10;&#10;https://basecamp.com/1791939/projects/12730983/todos/313905479">
+      <created>1498326449411</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1498326449411</updated>
+    </task>
+    <task id="LOCAL-00016" summary="(B2B) SEO | Alterar frequência sitemap&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/313613951">
+      <created>1498583638219</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1498583638219</updated>
+    </task>
+    <task id="LOCAL-00017" summary="(B2B) SEO | Alterar frequência sitemap&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/313613951">
+      <created>1498659678773</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1498659678773</updated>
+    </task>
+    <task id="LOCAL-00018" summary="(B2B) SEO | Alterar frequência sitemap&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/313613951">
+      <created>1498682661891</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1498682661891</updated>
+    </task>
+    <task id="LOCAL-00019" summary="T08 - (05) (B2C) (TESTES) Cidades On Net Sem TV - Simulador (BI)&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/311132676">
+      <created>1498746151663</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1498746151663</updated>
+    </task>
+    <task id="LOCAL-00020" summary="(B2C) (CWB) (TESTES) Nova Política Comercial - JULHO&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/313840267">
+      <created>1498757151654</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1498757151654</updated>
+    </task>
+    <task id="LOCAL-00021" summary="(B2C) (CWB) (TESTES) Nova Política Comercial - JULHO&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/313840267">
+      <created>1498760095916</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1498760095916</updated>
+    </task>
+    <task id="LOCAL-00022" summary="T08 - (05) (B2C) (TESTES) Cidades On Net Sem TV - Simulador (BI)&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/311132676">
+      <created>1498764208466</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1498764208466</updated>
+    </task>
+    <task id="LOCAL-00023" summary=" (B2B) BUG no primeiro acesso a Grandes Empresas&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/313975274">
+      <created>1498766454590</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1498766454590</updated>
+    </task>
+    <task id="LOCAL-00024" summary=" (B2B) BUG no primeiro acesso a Grandes Empresas&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/313975274">
+      <created>1498770272736</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1498770272736</updated>
+    </task>
+    <task id="LOCAL-00025" summary="(B2C/B2B) Não está apresentando o preço nos cards de Banda larga para Barra Mansa e Volta Redonda.&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/314603579">
+      <created>1498827233243</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1498827233243</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Merge remote-tracking branch 'remotes/origin/develop' into homologa&#10;&#10;# Conflicts:&#10;#&#9;src/json/componentes/defaultB2bc.json">
+      <created>1498843274600</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1498843274600</updated>
+    </task>
+    <task id="LOCAL-00027" summary="SEM TAREFA - AJUSTE PARA EVITAR LIMPEZA DE CACHE">
+      <created>1498904477868</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1498904477868</updated>
+    </task>
+    <task id="LOCAL-00028" summary=" (B2C) Remoção do selo promocional HBO&#10; &#10; https://basecamp.com/1791939/projects/7986525/todos/314820269&#10; &#10; Ajuste Preços Staticos">
+      <created>1498908048509</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1498908048509</updated>
+    </task>
+    <task id="LOCAL-00029" summary="(B2C) Modal de pontos adicionais oferecendo o 1° ponto grátis para Ultra HD&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/314820391">
+      <created>1498910761290</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1498910761290</updated>
+    </task>
+    <task id="LOCAL-00030" summary=" (B2C) Valores de canais adicionais não foram alterados no simulador&#10; &#10; https://basecamp.com/1791939/projects/7986525/todos/314820518">
+      <created>1498912514954</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1498912514954</updated>
+    </task>
+    <task id="LOCAL-00031" summary=" (B2C) Valores de canais adicionais não foram alterados no simulador&#10; &#10; https://basecamp.com/1791939/projects/7986525/todos/314820518">
+      <created>1498919479778</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1498919479778</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Publicação CHAT SP&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/314705718">
+      <created>1499090516997</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1499090516997</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Publicação CHAT SP&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/314705718">
+      <created>1499175586944</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1499175586944</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Publicação CHAT SP&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/314705718">
+      <created>1499176550077</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1499176550077</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Publicação CHAT SP&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/314705718">
+      <created>1499178949936</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1499178949936</updated>
+    </task>
+    <task id="LOCAL-00036" summary="CAMPANHAS B2b">
+      <created>1499462281658</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1499462281658</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Adicinando Animações na Home - Algumas pendências de conteúdo">
+      <created>1499745443777</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1499745443777</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Adicinando Animações na Perguntas frequentes.">
+      <created>1499785364134</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1499785364134</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Corrigindo conteúdo removido no ultimo Commit.">
+      <created>1499786182009</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1499786182009</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unit_Tests - 2017.06.20 at 16h 29m 29s.xml">
+      <configuration name="Unit Tests" configurationId="JavaScriptTestRunnerKarma" />
+    </history-entry>
+    <history-entry file="Unit_Tests - 2017.06.20 at 17h 16m 31s.xml">
+      <configuration name="Unit Tests" configurationId="JavaScriptTestRunnerKarma" />
+    </history-entry>
+    <history-entry file="protractor_conf_js - 2017.06.20 at 15h 41m 07s.xml">
+      <configuration name="protractor.conf.js" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="protractor_conf_js - 2017.06.20 at 15h 41m 25s.xml">
+      <configuration name="protractor.conf.js" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="protractor_conf_js - 2017.06.20 at 15h 42m 27s.xml">
+      <configuration name="protractor.conf.js" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="protractor_conf_js - 2017.06.20 at 15h 44m 24s.xml">
+      <configuration name="protractor.conf.js" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="protractor_conf_js - 2017.06.20 at 15h 45m 26s.xml">
+      <configuration name="protractor.conf.js" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="protractor_conf_js - 2017.06.20 at 15h 48m 28s.xml">
+      <configuration name="protractor.conf.js" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="protractor_conf_js - 2017.06.20 at 15h 50m 01s.xml">
+      <configuration name="protractor.conf.js" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+    <history-entry file="protractor_conf_js - 2017.06.20 at 15h 51m 18s.xml">
+      <configuration name="protractor.conf.js" configurationId="JavaScriptTestRunnerProtractor" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="223952000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30952382" sideWeight="0.6308594" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49211356" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.50208336" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32242227" sideWeight="0.5349702" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.46205357" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22058824" sideWeight="0.49107143" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15178572" sideWeight="0.36057693" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.50208336" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15178572" sideWeight="0.36914062" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31914893" sideWeight="0.5349702" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.46205357" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22058824" sideWeight="0.49107143" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1633987" sideWeight="0.5379464" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15178572" sideWeight="0.6308594" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15178572" sideWeight="0.36057693" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49211356" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.50208336" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32026145" sideWeight="0.5349702" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15178572" sideWeight="0.36914062" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.46205357" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22058824" sideWeight="0.49107143" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1633987" sideWeight="0.5379464" order="13" side_tool="true" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15178572" sideWeight="0.6308594" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.49791667" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15178572" sideWeight="0.36057693" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Criar lazyload de CSS&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/310722102" />
+    <MESSAGE value=" https://basecamp.com/1791939/projects/7986525/todos/311498804&#10; &#10; Barra Mansa e Volta Redonda quabrando" />
+    <MESSAGE value="Merge branch 'master-loren' of https://github.com/GVTMKTDigital/ferrari-angular into master-loren&#10;&#10;# Conflicts:&#10;#&#9;mkt-node-modules/mkt-cards-compile/package.json&#10;#&#9;mkt-node-modules/mkt-json-db/package.json&#10;#&#9;mkt-node-modules/mkt-json-groups/dist/index.js&#10;#&#9;mkt-node-modules/mkt-json-groups/package.json&#10;#&#9;mkt-node-modules/mkt-json-groups/src/index.ts&#10;#&#9;src/js/angular/lib/modulos/staticPrice/staticPrice.js" />
+    <MESSAGE value="SEM TAREFA - Aplicar horario de manutenção 17/06 23:00 19/06 07:00" />
+    <MESSAGE value="SEM TAREFA - Simulador não permitia compra de Avulso em cidades sem TV, o simulador era sempre iniciado no 2P" />
+    <MESSAGE value="LP barra quebrando com parametro - https://basecamp.com/1791939/projects/7986525/todos/313179776" />
+    <MESSAGE value="Merge remote-tracking branch 'remotes/origin/homologa' into master-loren&#10;&#10;# Conflicts:&#10;#&#9;src/js/angular/common/dataLayerVivo.js&#10;#&#9;src/js/angular/core/routes/b2c.js&#10;#&#9;src/js/angular/lib/modulos/dataFactory/abstractFactoryData.js&#10;#&#9;src/json/componentes/b2b/especial.json&#10;#&#9;src/json/componentes/b2b/premium.json&#10;#&#9;src/json/componentes/b2b/top.json&#10;#&#9;src/json/componentes/b2c/pnp_1.json&#10;#&#9;src/json/componentes/b2c/pnp_2.json&#10;#&#9;src/json/componentes/b2c/pnp_2_300.json&#10;#&#9;src/json/componentes/b2c/pnp_3.json&#10;#&#9;src/json/componentes/b2c/pnp_3_300.json&#10;#&#9;src/json/componentes/b2c/pnp_4.json&#10;#&#9;src/json/componentes/b2c/pnp_7.json&#10;#&#9;src/json/componentes/b2c/pnp_7_300.json&#10;#&#9;src/json/componentes/defaultB2b.json&#10;#&#9;src/json/componentes/defaultNse.json&#10;#&#9;src/json/componentes/fibra_SP_soft_vivo2.json&#10;#&#9;templates/atoms/list/atom-list-breadcrumb.html&#10;#&#9;templates/componentes/modal/preciso-ajuda.html" />
+    <MESSAGE value="Ajustes Homologa apos conflito tinhas chaves duplicadas" />
+    <MESSAGE value="B2C) DEV | Na página de fechamento de pedido o sistema direciona para página de home automaticament&#10;&#10;https://basecamp.com/1791939/projects/12730983/todos/313902601" />
+    <MESSAGE value="(B2B) DEV | BUG Vivi de Atendimento - Grandes Empresas&#10;&#10;&#10;https://basecamp.com/1791939/projects/12730983/todos/313905479" />
+    <MESSAGE value="(B2B) SEO | Alterar frequência sitemap&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/313613951" />
+    <MESSAGE value="(B2C) (CWB) (TESTES) Nova Política Comercial - JULHO&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/313840267" />
+    <MESSAGE value="T08 - (05) (B2C) (TESTES) Cidades On Net Sem TV - Simulador (BI)&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/311132676" />
+    <MESSAGE value=" (B2B) BUG no primeiro acesso a Grandes Empresas&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/313975274" />
+    <MESSAGE value="(B2C/B2B) Não está apresentando o preço nos cards de Banda larga para Barra Mansa e Volta Redonda.&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/314603579" />
+    <MESSAGE value="Merge remote-tracking branch 'remotes/origin/develop' into homologa&#10;&#10;# Conflicts:&#10;#&#9;src/json/componentes/defaultB2bc.json" />
+    <MESSAGE value="SEM TAREFA - AJUSTE PARA EVITAR LIMPEZA DE CACHE" />
+    <MESSAGE value=" (B2C) Remoção do selo promocional HBO&#10; &#10; https://basecamp.com/1791939/projects/7986525/todos/314820269&#10; &#10; Ajuste Preços Staticos" />
+    <MESSAGE value="(B2C) Modal de pontos adicionais oferecendo o 1° ponto grátis para Ultra HD&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/314820391" />
+    <MESSAGE value=" (B2C) Valores de canais adicionais não foram alterados no simulador&#10; &#10; https://basecamp.com/1791939/projects/7986525/todos/314820518" />
+    <MESSAGE value="Publicação CHAT SP&#10;&#10;https://basecamp.com/1791939/projects/7986525/todos/314705718" />
+    <MESSAGE value="CAMPANHAS B2b" />
+    <MESSAGE value="Adicinando Animações na Home - Algumas pendências de conteúdo" />
+    <MESSAGE value="Adicinando Animações na Perguntas frequentes." />
+    <MESSAGE value="Corrigindo conteúdo removido no ultimo Commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrigindo conteúdo removido no ultimo Commit." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/js/angular/lib/modulos/card/superCard.js</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/js/angular/lib/modulos/card/superCard.js</url>
+          <line>15</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/json/cards/additionalProduct.json" />
+    <entry file="file://$PROJECT_DIR$/src/js/angular/controllers/essentials/consulta-ponto-adicional.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/lazyload/simulador/simulador.js" />
+    <entry file="file://$PROJECT_DIR$/src/json/cards/extraChannelsLayout.json" />
+    <entry file="file://$PROJECT_DIR$/src/js/angular/controllers/simulador/simuladorCommunService.js" />
+    <entry file="file://$PROJECT_DIR$/src/json/cpm-full.dat" />
+    <entry file="file://$PROJECT_DIR$/src/js/angular/lib/modulos/staticPrice/staticPrice.js" />
+    <entry file="file://$PROJECT_DIR$/src/json/cp-full-compress-b2c.dat" />
+    <entry file="file://$PROJECT_DIR$/src/json/cp-full.dat" />
+    <entry file="file://$PROJECT_DIR$/src/json/cp-full-compress-b2b.dat" />
+    <entry file="file://$PROJECT_DIR$/src/js/angular/molecules/cards/molecule-price.js" />
+    <entry file="file://$PROJECT_DIR$/templates/organisms/cards/organism-card-a-la-carte.html" />
+    <entry file="file://$PROJECT_DIR$/src/js/lazyload/simulador/simulador2.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/angular/core/routes/b2c.js" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/legacy.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19091">
+          <caret line="1123" column="18" lean-forward="false" selection-start-line="1123" selection-start-column="18" selection-end-line="1123" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/organisms/organism-chat-oracle.html" />
+    <entry file="file://$PROJECT_DIR$/src/js/angular/lib/modulos/resolve/resolve.js" />
+    <entry file="file://$PROJECT_DIR$/src/json/grupos.json" />
+    <entry file="file://$PROJECT_DIR$/src/json/grupos.csv" />
+    <entry file="file://$PROJECT_DIR$/src/js/angular/organisms/organism-chat-oracle.js" />
+    <entry file="file://$PROJECT_DIR$/templates/paginas/modais/page-modal-chat.html" />
+    <entry file="file://$PROJECT_DIR$/templates/organisms/chat-oracle-b2c.html" />
+    <entry file="file://$PROJECT_DIR$/src/js/angular/controllers/chat-oracle-b2c.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/angular/lib/angular-masks.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/angular/lib/modulos/services/service.js" />
+    <entry file="file://$PROJECT_DIR$/makro/index.html" />
+    <entry file="file://$PROJECT_DIR$/makro/email.html" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/bravo/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/bravo/index.html" />
+    <entry file="file://$PROJECT_DIR$/src/js/angular/lib/modulos/card/superCard.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/angular/lib/modulos/services/converter.js" />
+    <entry file="file://$PROJECT_DIR$/src/json/cards/products.json" />
+    <entry file="file://$PROJECT_DIR$/js/skrollr.js" />
+    <entry file="file://$PROJECT_DIR$/js/vendor/.js" />
+    <entry file="file://$PROJECT_DIR$/interna-blog.html" />
+    <entry file="file://$PROJECT_DIR$/curso-juris.html" />
+    <entry file="file://$PROJECT_DIR$/js/jcarousel.min.js" />
+    <entry file="file://$PROJECT_DIR$/css/jcarousel.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_bootstrap-3.3.7.zip/bootstrap-3.3.7/dist/js/npm.js" />
+    <entry file="file://$PROJECT_DIR$/home.html" />
+    <entry file="file://$PROJECT_DIR$/js/animations.js" />
+    <entry file="file://$PROJECT_DIR$/css/main.css" />
+    <entry file="file://$USER_HOME$/assine/git/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/json/componentes/defaultNse.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="7100" column="27" lean-forward="false" selection-start-line="7100" selection-start-column="27" selection-end-line="7100" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/angular/core/routes/nse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="320" column="18" lean-forward="false" selection-start-line="320" selection-start-column="18" selection-end-line="320" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slick/slick.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slick/slick-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="101" column="23" lean-forward="true" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.view.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
